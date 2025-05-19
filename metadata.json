@@ -1,0 +1,12 @@
+{
+  "name": "UHI6 Acceptance Token",
+  "description": "A token representing acceptance into UHI6",
+  "image": "ipfs://QmVLwvmGehsrNEvhcCnnsw5RQNseohgEkFNN1848zNzdng",
+  "external_url": "https://atrium.academy",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Acceptance Token"
+    }
+  ]
+}
